@@ -1,7 +1,7 @@
 # DevOps Setup Guide
 > End-to-end setup for Java + Maven + Docker + Jenkins + Minikube on an AWS EC2 Ubuntu instance.
 
----Manjunath
+---Manjunath9111
 
 ## 1. SSH into the EC2 Instance
 
